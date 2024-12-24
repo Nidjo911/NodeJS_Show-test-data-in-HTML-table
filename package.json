@@ -1,5 +1,8 @@
 {
   "dependencies": {
+    "chartjs-node-canvas": "^4.1.6",
+    "csv-writer": "^1.6.0",
+    "ejs": "^3.1.10",
     "express": "^4.21.2"
   }
 }
