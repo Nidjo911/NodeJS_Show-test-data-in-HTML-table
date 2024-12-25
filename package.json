@@ -1,4 +1,10 @@
 {
+  "name": "chartjs-node",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "webpack --config webpack.config.js"
+  },
+  "type": "module",
   "dependencies": {
     "chartjs-node-canvas": "^4.1.6",
     "csv-writer": "^1.6.0",
